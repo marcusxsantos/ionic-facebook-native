@@ -1,5 +1,7 @@
 {
   "name": "face-sample",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
